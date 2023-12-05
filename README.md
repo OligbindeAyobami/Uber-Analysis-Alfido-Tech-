@@ -9,7 +9,7 @@ Analysis tools: Power bi and Power Query
 A larger percentage of the Uber ride fall under business category 91% while the rest 9% were under personnel.
 
 📌Purpose of Ride:
-Meeting top this group , Most of the people taking the ride are out for Meeting while charity and commute were less frequent 
+Meeting top this group , Most of the people taking the ride are out for Meeting while charity and commute were less frequent.
 
 📌Monthly trend 
 August record the highest number of ride 133 while the least came from the month of October with just 27 rides.
