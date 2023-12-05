@@ -1,6 +1,8 @@
 # Uber Data Analysis
 Uber is a technology platform that connects drivers and riders. As a driver, you use your vehicle to pick up riders and drive them to preferred destinations.Drivers earn money based on trips completed using the Uber app.
 
+Analysis tools: Power bi and Power Query
+
 ## Key Insights
 
 📌Category of Ride:
@@ -25,4 +27,10 @@ While Carl still have the highest destination number of rides
 The average mile covered was 10.67miles and the least average miles by month was recorded in the month of December.
 
 ## Recommendation 
+
 📍Proper data entry and documentation to tackle issue of missing values as seen in purposes column
+
+📍Availability of more driver at the peak hours to help ease high orders
+
+📍Promo and discounts on ride fees at the least preforming hours to encourage people to book rides at this hours
+
